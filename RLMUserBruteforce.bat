@@ -1,4 +1,5 @@
 setlocal enabledelayedexpansion
+chcp 65001 >nul
 cls
 set error=-
 color F
