@@ -1,4 +1,5 @@
 @echo off
+title Userbruteforce
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 cls
